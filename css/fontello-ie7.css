@@ -1,0 +1,44 @@
+[class$="icon-"], [class*="icon- "] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+
+  /* fix buttons height */
+  line-height: 1em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+.home-circledicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.facebookicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf300;&nbsp;'); }
+.facebook-recticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf301;&nbsp;'); }
+.twittericon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf302;&nbsp;'); }
+.icqicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf304;&nbsp;'); }
+.yandexicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf305;&nbsp;'); }
+.github-texticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf307;&nbsp;'); }
+.githubicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf308;&nbsp;'); }
+.vkontakte-recticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30a;&nbsp;'); }
+.odnoklassniki-recticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30d;&nbsp;'); }
+.vimeoicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30f;&nbsp;'); }
+.tumblricon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf311;&nbsp;'); }
+.friendfeedicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf312;&nbsp;'); }
+.friendfeed-recticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf313;&nbsp;'); }
+.blogger-recticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf315;&nbsp;'); }
+.jabbericon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf317;&nbsp;'); }
+.lastfm-recticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf319;&nbsp;'); }
+.linkedinicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf31a;&nbsp;'); }
+.picasaicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf31c;&nbsp;'); }
+.instagramicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf31e;&nbsp;'); }
+.instagram-filledicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf31f;&nbsp;'); }
+.diigoicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf320;&nbsp;'); }
+.boxicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf321;&nbsp;'); }
+.box-recticon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf322;&nbsp;'); }
+.tudouicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf323;&nbsp;'); }
+.youkuicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf324;&nbsp;'); }
+.win8icon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf325;&nbsp;'); }
+.amexicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf326;&nbsp;'); }
+.mastercardicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf329;&nbsp;'); }
+.houzzicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf32a;&nbsp;'); }
+.bandcampicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf32b;&nbsp;'); }
+.codepenicon- { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf32c;&nbsp;'); }
